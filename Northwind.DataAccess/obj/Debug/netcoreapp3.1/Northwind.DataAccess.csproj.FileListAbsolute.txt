@@ -1,0 +1,15 @@
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.DataAccess.deps.json
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.DataAccess.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.DataAccess.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.Model.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.repositories.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.repositories.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp3.1\Northwind.Model.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp3.1\Northwind.DataAccess.pdb

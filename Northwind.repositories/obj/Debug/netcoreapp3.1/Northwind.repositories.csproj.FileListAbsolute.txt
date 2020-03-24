@@ -1,0 +1,11 @@
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\bin\Debug\netcoreapp3.1\Northwind.repositories.deps.json
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\bin\Debug\netcoreapp3.1\Northwind.repositories.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\bin\Debug\netcoreapp3.1\Northwind.repositories.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\bin\Debug\netcoreapp3.1\Northwind.Model.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\bin\Debug\netcoreapp3.1\Northwind.Model.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\obj\Debug\netcoreapp3.1\Northwind.repositories.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\obj\Debug\netcoreapp3.1\Northwind.repositories.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\obj\Debug\netcoreapp3.1\Northwind.repositories.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\obj\Debug\netcoreapp3.1\Northwind.repositories.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\obj\Debug\netcoreapp3.1\Northwind.repositories.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.repositories\obj\Debug\netcoreapp3.1\Northwind.repositories.pdb

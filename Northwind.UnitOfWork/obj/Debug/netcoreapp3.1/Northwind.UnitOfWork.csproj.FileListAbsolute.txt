@@ -1,0 +1,13 @@
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.deps.json
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Model.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.repositories.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.repositories.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Model.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb

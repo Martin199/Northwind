@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>5bdb6501-ed51-48cf-9ebd-770b0127c61b</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.DataAccess\Northwind.DataAccess.csproj" />
+    <ProjectReference Include="..\Northwind.Model\Northwind.Model.csproj" />
+    <ProjectReference Include="..\Northwind.repositories\Northwind.repositories.csproj" />
+    <ProjectReference Include="..\Northwind.UnitOfWork\Northwind.UnitOfWork.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\bin\Debug\netcoreapp3.1\Northwind.Model.deps.json
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\bin\Debug\netcoreapp3.1\Northwind.Model.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\bin\Debug\netcoreapp3.1\Northwind.Model.pdb
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\obj\Debug\netcoreapp3.1\Northwind.Model.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\obj\Debug\netcoreapp3.1\Northwind.Model.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\obj\Debug\netcoreapp3.1\Northwind.Model.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\obj\Debug\netcoreapp3.1\Northwind.Model.dll
+C:\Users\marti\OneDrive\Escritorio\Proyectos\Northwind\NorthwindSolution\Northwind.Model\obj\Debug\netcoreapp3.1\Northwind.Model.pdb
